@@ -35,6 +35,9 @@ Direct ownership of outcomes, not recommendations handed off to someone else. I 
 
 ## Open Source Work
 
+### [Engineering ADR Playbook](https://github.com/PrekshaShah2509/engineering-adr-playbook)
+A lightweight system for capturing architecture decisions as they happen, instead of reconstructing them later. Includes a standard ADR template (context, decision, rationale, trade-offs), a lighter version for smaller calls, three worked examples (database choice, deployment strategy, API versioning), a guide on when a decision is worth recording, and a lifecycle model from proposed to accepted to superseded.
+
 ### [Production Ready Checklist](https://github.com/PrekshaShah2509/production-ready-checklist)
 A comprehensive, battle-tested checklist for deploying applications safely and reliably. Covers seven domains: Security, Performance, Testing, Monitoring and Logging, Database, Deployment, and Post-Deployment. Includes templates for deployment plans, rollback procedures, and post-deployment verification. MIT licensed.
 
